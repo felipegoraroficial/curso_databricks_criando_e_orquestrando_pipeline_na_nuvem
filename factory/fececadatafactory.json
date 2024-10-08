@@ -1,0 +1,9 @@
+{
+	"name": "fececadatafactory",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8069c9c0-f5a7-4ccc-82c8-250e071023d7",
+		"tenantId": "291a9e52-7a35-494a-b27c-5393bbc9f36e"
+	}
+}
